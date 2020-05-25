@@ -1,0 +1,209 @@
+[
+
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/8/8b/366px-THE_FLASH.png/revision/latest/scale-to-width-down/340?cb=20130408211628&path-prefix=es",
+        "nombre": "Flash",
+        "identidad_secreta": "Barry Allen",
+        "edad": "25 años",
+        "altura": "187",
+        "genero": "masculino",
+        "descripcion": "El Velocista Escarlata es un superhéroe de DC Comics que posee una rapidez sobrehumana, la cual incluye la habilidad de correr a gran velocidad, reflejos sobrehumanos y la capacidad de violar algunas leyes de la física."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/0/09/366px-WONDER_WOMAN.png/revision/latest/top-crop/width/360/height/450?cb=20130405000221&path-prefix=es",
+        "nombre": "Wonder Woman",
+        "identidad_secreta": "Diana prince",
+        "edad": "900 años",
+        "altura": "180",
+        "genero": "femenino",
+        "descripcion": "creada pro los dioses diana desde pequeña tenia un gran potencial para ser la mejor gurrera, ."
+    },
+
+    {
+        "img": "https://freepngimg.com/thumb/flash/20898-5-kid-flash-transparent.png",
+        "nombre": "Kid flash",
+        "identidad_secreta": "Wally West",
+        "edad": "16 años",
+        "altura": "187",
+        "genero": "masculino",
+        "descripcion": "Wally West esta conectada una fuente de energía extradimensional conocida como “La Fuerza de la Velocidad”. Conectado a esta energía Wally puede desplazarse a supervelocidad"
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/e/e2/366px-Raven_Render.png/revision/latest/top-crop/width/360/height/450?cb=20130404235115&path-prefix=es",
+        "nombre": "Raven",
+        "identidad_secreta": "Raven",
+        "edad": "16 años",
+        "altura": "165",
+        "genero": "femenino",
+        "descripcion": "."
+    },
+
+    {
+        "img": "https://i.pinimg.com/originals/ac/66/0b/ac660be4e70a82c394528a3962e90f94.png",
+        "nombre": "Shazam",
+        "identidad_secreta": "Billy Batson",
+        "edad": "14 años",
+        "altura": "163",
+        "genero": "masculino",
+        "descripcion": "​era un mago de la antigüedad que recibió el poder de seis dioses y con él, comenzó su lucha contra el mal. ."
+    },
+
+    {
+        "img": "https://w0.pngwave.com/png/1018/771/charlie-hunnam-green-arrow-injustice-gods-among-us-injustice-2-arrow-png-clip-art.png",
+        "nombre": "arrow",
+        "identidad_secreta": "oliver queen",
+        "edad": "29 años",
+        "altura": "180",
+        "genero": "masculino",
+        "descripcion": "protector de ciudad star, se convirtio en flecha luego de llegar de la isla donde estuvo perdido encontrando la forma de regresar a casa"
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/5/58/366px-CYBORG.png/revision/latest/top-crop/width/360/height/450?cb=20130404235112&path-prefix=es",
+        "nombre": "Cyborg",
+        "identidad_secreta": "Victor Stone",
+        "edad": "35 años",
+        "altura": "191",
+        "genero": "masculino",
+        "descripcion": "es un humano hibrido lleno de armas en su cuerpo capaz de hacer cualquier cosa que se le ocurra"
+    },
+    {
+        "img": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/8/84/Aquaman.png/revision/latest/top-crop/width/360/height/450?cb=20140520025706&path-prefix=es",
+        "nombre": "Aquaman",
+        "identidad_secreta": "Arthur Curry",
+        "edad": "38 años",
+        "altura": "194",
+        "genero": "masculino",
+        "descripcion": "aquaman rey del oceano es un metahumano con el poder de respirar bajo el agua hablar con los peces y una gran fuerza y habilidades"
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/c/c7/235-BATGIRL.png/revision/latest?cb=20160203050132&path-prefix=es",
+        "nombre": "Batgirl",
+        "identidad_secreta": "Barbara Gordon",
+        "edad": "27 años",
+        "altura": "169",
+        "genero": "femenino",
+        "descripcion": " representados como contrapartes femeninas del superhéroe Batman."
+    },
+
+    {
+        "img": "https://w7.pngwing.com/pngs/775/164/png-transparent-injustice-2-injustice-gods-among-us-starfire-green-arrow-batman-batman-purple-heroes-computer-wallpaper.png",
+        "nombre": "Starfire",
+        "identidad_secreta": "Koriand'r.",
+        "edad": "16 años",
+        "altura": "177",
+        "genero": "femenino",
+        "descripcion": " Es una princesa de un mundo extraterrestre conocido como Tamaran."
+    },
+
+    {
+        "img": "https://i7.pngflow.com/pngimage/21/751/png-injustice-gods-among-us-batwoman-batgirl-barbara-gordon-batman-batwoman-fictional-character-joker-barbara-gordon-figurine-clipart.png",
+        "nombre": "Batwoman",
+        "identidad_secreta": "Katherine Kane",
+        "edad": "25 años",
+        "altura": "172",
+        "genero": "femenino",
+        "descripcion": "Kate Kane sigue los pasos de su primo desaparecido, Bruce Wayne, y protege las calles de Gotham City como Batwoman."
+    },
+
+    {
+        "img": "https://w7.pngwing.com/pngs/747/289/png-transparent-injustice-2-injustice-gods-among-us-robin-damian-wayne-playstation-4-zatanna-fictional-characters-video-game-playstation-4.png",
+        "nombre": "Robin",
+        "identidad_secreta": "Damian Wayne",
+        "edad": "13 años",
+        "altura": "158",
+        "genero": "masculino",
+        "descripcion": " compañero de batman en la mayoria de sus aventuras ."
+    },
+
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/batman/images/e/e5/Zatanna_Injustice_profile.png/revision/latest?cb=20170429173803&path-prefix=es",
+        "nombre": "zatana",
+        "identidad_secreta": "zatana zatara",
+        "edad": "14 años",
+        "altura": "170",
+        "genero": "femenino",
+        "descripcion": "."
+    },
+
+
+
+    {
+        "img": "https://i.pinimg.com/originals/85/00/c9/8500c9a15d23a569a3aa698d94885725.jpg",
+        "nombre": "Hawk Girl",
+        "identidad_secreta": "Shiera Sanders",
+        "edad": "27 años",
+        "altura": "181",
+        "genero": "femenino",
+        "descripcion": " apareció por primera vez en Flash Comics #1."
+    },
+
+
+    {
+        "img": "https://i.pinimg.com/originals/04/72/1a/04721a571c25b4b253c0e2d2ddba79fc.png",
+        "nombre": "Superman",
+        "identidad_secreta": "Clark Kent",
+        "edad": "30 años",
+        "altura": "186",
+        "genero": "masculino",
+        "descripcion": "Superman superheroe de DC Comics. tiene habilidades unicas como alcanzar la velocidad de flash,superfuerza,rayosx,vision laser."
+    },
+
+    {
+        "img": "https://lh3.googleusercontent.com/proxy/Jmps57kDzjbIjLBmmyyEgqyHTmBzdBAmkgnyf6YnCwa9PWfIXLmQupq2XV9rUThbdeZX5MFxcEEGpMI1gov3vEZYRiLwWak74rpEuqXLTO3yaPYNOkqtkeJoHKF3Tan8MySTImT_Hqb8DfBbPh5J3uNusuOypt6_wDiYXInZcpzJ5XgsVFAzGwuFI4mwXc-ptom9S5jWwbDeVMZFkAcV1HQGTiVI1W1Qwdq3iGPK3fHv0PK8tw",
+        "nombre": "Dr. Destino",
+        "identidad_secreta": "Kent Nelson",
+        "edad": "27 años",
+        "altura": "187",
+        "genero": "masculino",
+        "descripcion": " el Doctor Destino es un personaje  con  poderes mágicos"
+    },
+
+
+
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/c/cb/CATWOMAN.PNG/revision/latest?cb=20140515034734&path-prefix=es",
+        "nombre": "Catwoman",
+        "identidad_secreta": "Selina Kyle",
+        "edad": "37 años",
+        "altura": "179",
+        "genero": "femenino",
+        "descripcion": " Ella es el interés amoroso más duradero de Batman y es conocida por su compleja relación de amor y odio con él."
+    },
+
+    {
+        "img": "https://lh3.googleusercontent.com/proxy/bWbL62DRyXgLITx2YtMr2CMJWv-m3WBvRGpYby7cDMLVobG3XfIzg7Z1luRwQXAUuljNYFhN6NBMPIocdtewQT8XjwhPxeqHZXkSJ5iYLloeqzcAlmcL-_aR7ZYmG9yy-9FEme1WdG19tnbLi9ZXix1C_e5ucI5AyJBwETdRKSFARBM4X9nSCC8",
+        "nombre": "Batman",
+        "identidad_secreta": "Bruce Wayne",
+        "edad": "40 años",
+        "altura": "188",
+        "genero": "masculino",
+        "descripcion": " protector de ciudad gothica, bruce wayne se quedo solo tras la muerte de sus padres "
+    },
+
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Red_Hood_%28Jason_Todd%29.png/250px-Red_Hood_%28Jason_Todd%29.png",
+        "nombre": "Red Hood",
+        "identidad_secreta": "Jason Todd",
+        "edad": "22 años",
+        "altura": "183",
+        "genero": "masculino",
+        "descripcion": " enemigo de Batman.Experto en combate, entrenado por Batman. "
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/2/2c/NIGHTWING.png/revision/latest?cb=20140518170405&path-prefix=es",
+        "nombre": "Nightwing",
+        "identidad_secreta": "Dick Grayson",
+        "edad": "27 años",
+        "altura": "178",
+        "genero": "masculino",
+        "descripcion": "Bruce Wayne) lo toma como un pupilo legal (reintroducido como un hijo adoptivo en varias ocasiones) y el compañero de lucha contra el crimen "
+    }
+]
